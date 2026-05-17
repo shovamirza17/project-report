@@ -4,6 +4,10 @@ feature/T-05
 This task involves displaying real-time weather information including temperature, humidity, wind speed, and weather conditions using API data.
 **Status: Implemented**
 
+feature/T-13
+## T-13: Implement API Error Handling
+This task involves handling API failures, invalid responses, and displaying user-friendly error messages within the system.
+
 feature/T-12
 ## T-12: Implement Historical Weather Data
 This task involves storing and displaying historical weather information for previous dates and user-selected locations.
@@ -33,6 +37,7 @@ This task involves developing hourly and 7-day weather forecast functionality wi
 
 ## T-03: Implement User Login System
 This task involves creating secure user authentication with email and password validation, session handling, and login error management.
+dev
 dev
 dev
 dev
