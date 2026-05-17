@@ -4,6 +4,10 @@ feature/T-05
 This task involves displaying real-time weather information including temperature, humidity, wind speed, and weather conditions using API data.
 **Status: Implemented**
 
+feature/T-10
+## T-10: Implement User Profile Management
+This task involves allowing users to view and update profile information, manage passwords, and customize account preferences.
+
 feature/T-09
 ## T-09: Implement Weather Alerts & Notifications
 This task involves creating a notification system for weather alerts including storms, rain warnings, and extreme temperature notifications.
@@ -21,6 +25,7 @@ This task involves developing hourly and 7-day weather forecast functionality wi
 
 ## T-03: Implement User Login System
 This task involves creating secure user authentication with email and password validation, session handling, and login error management.
+dev
 dev
 dev
 dev
